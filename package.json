@@ -1,0 +1,18 @@
+{
+  "author": "Cam Pedersen <diffference@gmail.com> (http://campedersen.com/)",
+  "name": "tron",
+  "description": "Lightcycles up in this bitch",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "bin": {
+    "tron": "bin/tron.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
