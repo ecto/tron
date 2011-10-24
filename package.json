@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "play": "*",
-    "colors": "*"
+    "colors": "*",
+    "charm": "*"
   },
   "devDependencies": {}
 }
