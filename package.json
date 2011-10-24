@@ -13,6 +13,9 @@
   "bin": {
     "tron": "bin/tron.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "play": "*",
+    "colors": "*"
+  },
   "devDependencies": {}
 }
